@@ -16,7 +16,7 @@ matplotlib==3.10.0
     # via
     #   -r requirements.in
     #   seaborn
-numpy==2.2.2
+numpy==2.2.0
     # via
     #   -r requirements.in
     #   contourpy
@@ -45,3 +45,10 @@ six==1.17.0
     # via python-dateutil
 tzdata==2025.1
     # via pandas
+
+
+
+
+
+
+
