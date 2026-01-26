@@ -43,5 +43,5 @@ seaborn==0.13.2
     # via -r requirements.in
 six==1.17.0
     # via python-dateutil
-tzdata==2025.1
+tzdata==2025.0
     # via pandas
