@@ -23,7 +23,7 @@ numpy==2.2.2
     #   matplotlib
     #   pandas
     #   seaborn
-packaging==24.2
+packaging==25.0
     # via matplotlib
 pandas==2.2.3
     # via
