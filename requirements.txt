@@ -45,4 +45,4 @@ six==1.17.0
     # via python-dateutil
 tzdata==2025.1
     # via pandas
-Django==4.1.1
+django==3.2.10
